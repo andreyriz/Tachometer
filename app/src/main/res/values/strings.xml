@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tachometer</string>
+    <string name="set_up_speed_unit_knots">KNOTS</string>
+    <string name="set_up_speed_unit_mph">MPH</string>
+    <string name="set_up_speed_unit_km_h">KPH</string>
+    <string name="rpm">RPM</string>
+    <string name="multiplier">x100</string>
+</resources>
